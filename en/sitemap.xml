@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alexmaldon.github.io/web1/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexmaldon.github.io/web1/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexmaldon.github.io/web1/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alexmaldon.github.io/web1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexmaldon.github.io/web1/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexmaldon.github.io/web1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://alexmaldon.github.io/web1/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://alexmaldon.github.io/web1/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://alexmaldon.github.io/web1/tags/"
+                />
+  </url>
+  
+</urlset>
